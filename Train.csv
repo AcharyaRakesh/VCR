@@ -1,0 +1,80 @@
+﻿BOS Iron(Fe)+ Oxygen (O2) EOS,O O O O O O O O O O O O O O O O O O O O O O O O O O,Rust
+BOS Hydrogen(H) + Oxygen(O2) EOS,O O O O O O O O O O,Water
+BOS Potassium(K) + Chlorine gas(Cl2) EOS,O O O O O O O,Chloride
+BOS Sodium(Na) + Chloride(Cl-) EOS,O O O O O O O O O O O O O O O O O O,Table_Salt
+BOS Calcium(Ca) + Water(H2O) EOS,O O O O O O O O O O O,Dihydrogen
+BOS Hydrogen(H)  + Chlorine(Cl)  EOS,O O O O,Hydrochloric_acid
+BOS Carbon(C) + Oxygen(O2) EOS,O O O,Carbon_dioxide
+BOS Magnesium(Mg) + Oxygen(O2) EOS,O O O O O O O O O O O O,Magnesium_oxide
+BOS Zinc(Zn) + Oxygen(O2) EOS,O O O O O O O O O,Zinc_oxide
+BOS Sulphur(S) + Oxygen(O2) EOS,O O O O O O O O,Sulphur_dioxide
+BOS Nitrogen(N2) +  Oxygen(O2) EOS,O O O O O O O,Nitrogen dioxide
+BOS Copper(Cu) +  Sulphur(S) EOS,O O O O O O O O O O O O O O O O,Copper_sulphide
+BOS Copper(Cu) +   Oxygen(O2) EOS,O O O O O O O O O O O O O,Copper_oxide
+BOS Aluminium(Al) + Hydrochloric_acid (HCl) EOS,O O O O O O O O O O O O O O O O O O O O O O,Alumium_chloride
+BOS Iron(Fe) + Chlorine(Cl2) EOS,O O O O O O O O O O O O O O O O O O O O O,Iron_chloride
+BOS Zinc(Zn) + Sulphur(S) EOS,O O O O O O O O O O O O O O O O O O O O O O O O O,Zinc_sulfide
+BOS Magnesium oxide(MgO) + Water(H2O) EOS,O O O,Magnesium_hydroxide
+BOS Sulphur dioxide(SO2) + Water(H2O) EOS,O O O O O O O O O O O O O O O O O O O O O O O O,Sulphurous_acid
+BOS Sodium oxide(Na2O) +  Water(H2O) EOS,O O O O O,Sodium_hydroxide
+BOS Potassium oxide(K2O) + Water(H2O) EOS,O O O O O O O O O O O O O O O O O O O O O O O,Pottassium_hydroxide
+BOS Iron + Oxygen  EOS,O O O O O O O O O O O O O O O O O O O O O O O O O O,Rust
+BOS Hydrogen + Oxygen EOS,O O O O O O O O O O,Water
+BOS Potassium + Chlorine gas EOS,O O O O O O O,Chloride
+BOS Sodium + Chloride EOS,O O O O O O O O O O O O O O O O O O,Table_Salt
+BOS Calcium + Water EOS,O O O O O O O O O O O,Dihydrogen
+BOS Hydrogen  + Chlorine EOS,O O O O,Hydrochloric_acid
+BOS Carbon + Oxygen EOS,O O O,Carbon_dioxide
+BOS Magnesium + Oxygen EOS,O O O O O O O O O O O O,Magnesium_oxide
+BOS Zinc + Oxygen EOS,O O O O O O O O O,Zinc_oxide
+BOS Sulphur+ Oxygen EOS,O O O O O O O O,Sulphur_dioxide
+BOS Nitrogen +  Oxygen EOS,O O O O O O O,Nitrogen dioxide
+BOS Copper +  Sulphur EOS,O O O O O O O O O O O O O O O O,Copper_sulphide
+BOS Copper +   Oxygen EOS,O O O O O O O O O O O O O,Copper_oxide
+BOS Aluminium + Hydrochloric_acid  EOS,O O O O O O O O O O O O O O O O O O O O O O,Alumium_chloride
+BOS Iron + Chlorine  EOS,O O O O O O O O O O O O O O O O O O O O O,Iron_chloride
+BOS Zinc + Sulphur EOS,O O O O O O O O O O O O O O O O O O O O O O O O O,Zinc_sulfide
+BOS Magnesium oxide + Water EOS,O O O,Magnesium_hydroxide
+BOS Sulphur dioxide + Water EOS,O O O O O O O O O O O O O O O O O O O O O O O O,Sulphurous_acid
+BOS Sodium oxide +  Water EOS,O O O O O,Sodium_hydroxide
+BOS Potassium oxide + Water EOS,O O O O O O O O O O O O O O O O O O O O O O O,Pottassium_hydroxide
+BOS Fe+ O2 EOS,O O O O O O O O O O O O O O O O O O O O O O O O O O,Rust
+BOS H + O2 EOS,O O O O O O O O O O,Water
+BOS K + Cl2 EOS,O O O O O O O,Chloride
+BOS Na + Cl- EOS,O O O O O O O O O O O O O O O O O O,Table_Salt
+BOS Ca + H2O EOS,O O O O O O O O O O O,Dihydrogen
+BOS H  + Cl  EOS,O O O O,Hydrochloric_acid
+BOS C + O2 EOS,O O O,Carbon_dioxide
+BOS Mg + O2 EOS,O O O O O O O O O O O O,Magnesium_oxide
+BOS Zn + O2 EOS,O O O O O O O O O,Zinc_oxide
+BOS S + O2 EOS,O O O O O O O O,Sulphur_dioxide
+BOS N2 +  O2 EOS,O O O O O O O,Nitrogen dioxide
+BOS Cu +  S EOS,O O O O O O O O O O O O O O O O,Copper_sulphide
+BOS Cu +   O2 EOS,O O O O O O O O O O O O O,Copper_oxide
+BOS Al + HCl EOS,O O O O O O O O O O O O O O O O O O O O O O,Alumium_chloride
+BOS Fe + Cl2 EOS,O O O O O O O O O O O O O O O O O O O O O,Iron_chloride
+BOS Zn + S EOS,O O O O O O O O O O O O O O O O O O O O O O O O O,Zinc_sulfide
+BOS MgO + H2O EOS,O O O,Magnesium_hydroxide
+BOS SO2 + H2O EOS,O O O O O O O O O O O O O O O O O O O O O O O O,Sulphurous_acid
+BOS Na2O +  H2O EOS,O O O O O,Sodium_hydroxide
+BOS K2O + H2O EOS,O O O O O O O O O O O O O O O O O O O O O O O,Pottassium_hydroxide
+BOS  Oxygen (O2) + Iron(Fe) EOS,O O O O O O O O O O O O O O O O O O O O O O O O O O,Rust
+BOS  Oxygen(O2) + Hydrogen(H) EOS,O O O O O O O O O O,Water
+BOS Chlorine gas(Cl2) + Potassium(K)  EOS,O O O O O O O,Chloride
+BOS  Chloride(Cl-) + Sodium(Na) EOS,O O O O O O O O O O O O O O O O O O,Table_Salt
+BOS  Water(H2O) + Calcium(Ca)  EOS,O O O O O O O O O O O,Dihydrogen
+BOS  Chlorine(Cl) + Hydrogen(H)   EOS,O O O O,Hydrochloric_acid
+BOS  Oxygen(O2) + Carbon(C)  EOS,O O O,Carbon_dioxide
+BOS  Oxygen(O2) + Magnesium(Mg) EOS,O O O O O O O O O O O O,Magnesium_oxide
+BOS  Oxygen(O2 + Zinc(Zn) EOS,O O O O O O O O O,Zinc_oxide
+BOS  Oxygen(O2) + Sulphur(S)  EOS,O O O O O O O O,Sulphur_dioxide
+BOS  Oxygen(O2) + Nitrogen(N2)  EOS,O O O O O O O,Nitrogen dioxide
+BOS   Sulphur(S) + Copper(Cu)  EOS,O O O O O O O O O O O O O O O O,Copper_sulphide
+BOS   Oxygen(O2) + Copper(Cu)  EOS,O O O O O O O O O O O O O,Copper_oxide
+BOS  Hydrochloric_acid (HCl) + Aluminium(Al)  EOS,O O O O O O O O O O O O O O O O O O O O O O,Alumium_chloride
+BOS  Chlorine(Cl2) + Iron(Fe)  EOS,O O O O O O O O O O O O O O O O O O O O O,Iron_chloride
+BOS  Sulphur(S) + Zinc(Zn)  EOS,O O O O O O O O O O O O O O O O O O O O O O O O O,Zinc_sulfide
+BOS Water(H2O) + Magnesium oxide(MgO)  EOS,O O O,Magnesium_hydroxide
+BOS  Water(H2O) + Sulphur dioxide(SO2)  EOS,O O O O O O O O O O O O O O O O O O O O O O O O,Sulphurous_acid
+BOS  Water(H2O) + Sodium oxide(Na2O) EOS,O O O O O,Sodium_hydroxide
+BOS  Water(H2O) + Potassium oxide(K2O) + EOS,O O O O O O O O O O O O O O O O O O O O O O O,Pottassium_hydroxide
