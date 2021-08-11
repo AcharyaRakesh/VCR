@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="../static/css/vcr.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VCR</title>
+</head>
+<body>
+  <form method="POST" action="{{url_for('Vertual_CR')}}" enctype = "multipart/form-data">
+    <!-- The video -->
+  <video  muted loop id="myVideo">
+    <source src="../static/videos/videoplayback.mp4" type="video/mp4">
+  </video>
+  <!-- Optional: some overlay text to describe the video -->
+  <div class="container">
+    <h1>Vertual Chemical Reaction</h1>
+    <p></p>
+    <div class="content" >
+      <div class="field space">
+         <input type="text" placeholder="Reactent(A)" name="reactentA">
+      </div>
+      <div class="field space">
+          <input type="text" placeholder="Reactent(B)" name="reactentB">
+      </div>
+      <div class="space">
+      <input type="submit" class="button" id="myBtn" onclick="myFunction()" value="Start"></input>
+      </div>
+    </div>  
+    <!-- Use a button to pause/play the video with JavaScript -->
+    
+    <div class="lamp-container">
+      <img src="../static/images/wall.jpg" class="back" id="back">
+      <img src="../static/images/light.png" class="light" id ='light'>
+      <button class="result"  id ='result'>{{Result}}</button>
+      <img src="../static/images/chemical.png" class="beaker" id="beaker">
+      <img src="../static/images/table.png" class="table">
+      <img src="../static/images/lamp.png" class="lamp">
+    </div>
+ 
+  </div>
+</body>
+<script>
+  // Get the video
+  var video = document.getElementById("myVideo");
+  
+  // Get the button
+  var btn = document.getElementById("myBtn");
+  var back =document.getElementById("back");
+  var light = document.getElementById("light");
+  var beaker = document.getElementById("beaker");
+  var result = document.getElementById("result");
+  // Pause and play the video, and change the button text
+  function myFunction() {
+    back.classList.toggle('hide');
+    result.classList.toggle('hide');
+    light.classList.toggle("on");
+    beaker.classList.toggle("on");
+    if (video.paused) {   
+      video.play();
+    }
+
+  }
+  </script>
+</html>
